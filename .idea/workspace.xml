@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe74d04c-f012-49af-9f65-09784d96fe2d" name="Default" comment="" />
+    <ignored path="basicdrawing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/basicdrawing$totalwar.coverage" NAME="totalwar Coverage Results" MODIFIED="1397597881366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basicdrawing$basicdrawing.coverage" NAME="basicdrawing Coverage Results" MODIFIED="1398024280141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="basicdrawing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="basicdrawing.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="602" column="67" selection-start="26618" selection-end="26618" vertical-scroll-proportion="-0.051327433" vertical-offset="1129" max-vertical-offset="1694">
+              <folding>
+                <element signature="e#405#3781#0" expanded="false" />
+                <element signature="e#736#1474#0" expanded="false" />
+                <element signature="e#1515#1537#0" expanded="false" />
+                <element signature="e#1571#1593#0" expanded="false" />
+                <element signature="e#1634#1674#0" expanded="false" />
+                <element signature="e#1711#1747#0" expanded="false" />
+                <element signature="e#1800#1852#0" expanded="false" />
+                <element signature="e#1895#3464#0" expanded="false" />
+                <element signature="e#3516#3639#0" expanded="false" />
+                <element signature="e#3680#3781#0" expanded="false" />
+                <element signature="e#3862#9518#0" expanded="false" />
+                <element signature="e#9554#9644#0" expanded="false" />
+                <element signature="e#9697#9803#0" expanded="false" />
+                <element signature="e#9863#9887#0" expanded="false" />
+                <element signature="e#9945#9964#0" expanded="false" />
+                <element signature="e#10010#10216#0" expanded="false" />
+                <element signature="e#10276#10300#0" expanded="false" />
+                <element signature="e#10339#10645#0" expanded="false" />
+                <element signature="e#10689#11256#0" expanded="false" />
+                <element signature="e#11293#11575#0" expanded="false" />
+                <element signature="e#11612#11825#0" expanded="false" />
+                <element signature="e#11866#12087#0" expanded="false" />
+                <element signature="e#12126#13004#0" expanded="false" />
+                <element signature="e#13047#15949#0" expanded="false" />
+                <element signature="e#15991#16221#0" expanded="false" />
+                <element signature="e#16258#16368#0" expanded="false" />
+                <element signature="e#16408#17044#0" expanded="false" />
+                <element signature="e#17119#20197#0" expanded="false" />
+                <element signature="e#20271#23409#0" expanded="false" />
+                <element signature="e#23485#26549#0" expanded="false" />
+                <element signature="e#26627#29634#0" expanded="false" />
+                <element signature="e#29674#29701#0" expanded="false" />
+                <element signature="e#29849#30144#0" expanded="false" />
+                <element signature="e#30219#31171#0" expanded="false" />
+                <element signature="e#31237#33892#0" expanded="false" />
+                <element signature="e#33957#36626#0" expanded="false" />
+                <element signature="e#36692#39340#0" expanded="false" />
+                <element signature="e#39408#42040#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="totalwar.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/totalwar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="179" column="0" selection-start="7724" selection-end="7724" vertical-scroll-proportion="0.0" vertical-offset="3938" max-vertical-offset="4092">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/basicdrawing.qrc" />
+        <option value="$PROJECT_DIR$/totalwar.py" />
+        <option value="$PROJECT_DIR$/basicdrawing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basicdrawing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.3.3 (C:/Python33/python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basicdrawing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basicdrawing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.basicdrawing">
+    <configuration default="false" name="basicdrawing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicdrawing.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="totalwar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/totalwar.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basicdrawing" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.basicdrawing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.totalwar" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.basicdrawing" />
+        <item index="1" class="java.lang.String" itemvalue="Python.totalwar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe74d04c-f012-49af-9f65-09784d96fe2d" name="Default" comment="" />
+      <created>1397248406906</created>
+      <updated>1397248406906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32318106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/totalwar.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/totalwar.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/totalwar.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/totalwar.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="109" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="249" column="0" selection-start="9446" selection-end="9446" vertical-scroll-proportion="0.0" vertical-offset="4686" max-vertical-offset="4686">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7724" selection-end="7724" vertical-scroll-proportion="0.0" vertical-offset="3938" max-vertical-offset="4092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="22" selection-start="3829" selection-end="3829" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="462">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7724" selection-end="7724" vertical-scroll-proportion="0.0" vertical-offset="3938" max-vertical-offset="4092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="429" column="57" selection-start="16341" selection-end="16341" vertical-scroll-proportion="0.0" vertical-offset="4664" max-vertical-offset="4664">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7724" selection-end="7724" vertical-scroll-proportion="0.0" vertical-offset="3938" max-vertical-offset="4092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="516" column="11" selection-start="21035" selection-end="21035" vertical-scroll-proportion="0.0" vertical-offset="484" max-vertical-offset="484">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python33/Lib/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="0" selection-start="6269" selection-end="6269" vertical-scroll-proportion="0.0" vertical-offset="4070" max-vertical-offset="5148" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python33/Lib/_weakrefset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="1475" max-vertical-offset="4400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7724" selection-end="7724" vertical-scroll-proportion="0.0" vertical-offset="3938" max-vertical-offset="4092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="264" column="0" selection-start="9684" selection-end="9927" vertical-scroll-proportion="0.0" vertical-offset="5808" max-vertical-offset="6182">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="22" selection-start="2198" selection-end="2198" vertical-scroll-proportion="0.0" vertical-offset="1452" max-vertical-offset="4092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="16" selection-start="3086" selection-end="3086" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6050">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="22" selection-start="2198" selection-end="2198" vertical-scroll-proportion="0.0" vertical-offset="1452" max-vertical-offset="4092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="251" column="0" selection-start="9163" selection-end="9163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5830">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="90" selection-start="3105" selection-end="3105" vertical-scroll-proportion="0.0" vertical-offset="1958" max-vertical-offset="2200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="40" selection-start="2951" selection-end="2951" vertical-scroll-proportion="0.0" vertical-offset="1958" max-vertical-offset="5478">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="39" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="1210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="40" selection-start="2951" selection-end="2951" vertical-scroll-proportion="0.0" vertical-offset="1958" max-vertical-offset="5478">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="39" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="1210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="88" selection-start="4661" selection-end="4661" vertical-scroll-proportion="0.0" vertical-offset="2816" max-vertical-offset="5456">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="39" selection-start="1489" selection-end="1489" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="1210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="2986" selection-end="2986" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="4972">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5016">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0" vertical-offset="770" max-vertical-offset="1056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="29" selection-start="2664" selection-end="2664" vertical-scroll-proportion="0.0" vertical-offset="2310" max-vertical-offset="3718">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1571908645/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="7" selection-start="6256" selection-end="6256" vertical-scroll-proportion="0.21272728" vertical-offset="4085" max-vertical-offset="123684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totalwar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7724" selection-end="7724" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python33/Lib/_weakrefset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="1475" max-vertical-offset="4400" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python33/Lib/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="0" selection-start="6269" selection-end="6269" vertical-scroll-proportion="0.0" vertical-offset="3961" max-vertical-offset="5148" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python33/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="307" column="0" selection-start="11396" selection-end="11396" vertical-scroll-proportion="0.331307" vertical-offset="6513" max-vertical-offset="16126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicdrawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="602" column="67" selection-start="26618" selection-end="26618" vertical-scroll-proportion="-0.051327433" vertical-offset="1129" max-vertical-offset="1694">
+          <folding>
+            <element signature="e#405#3781#0" expanded="false" />
+            <element signature="e#736#1474#0" expanded="false" />
+            <element signature="e#1515#1537#0" expanded="false" />
+            <element signature="e#1571#1593#0" expanded="false" />
+            <element signature="e#1634#1674#0" expanded="false" />
+            <element signature="e#1711#1747#0" expanded="false" />
+            <element signature="e#1800#1852#0" expanded="false" />
+            <element signature="e#1895#3464#0" expanded="false" />
+            <element signature="e#3516#3639#0" expanded="false" />
+            <element signature="e#3680#3781#0" expanded="false" />
+            <element signature="e#3862#9518#0" expanded="false" />
+            <element signature="e#9554#9644#0" expanded="false" />
+            <element signature="e#9697#9803#0" expanded="false" />
+            <element signature="e#9863#9887#0" expanded="false" />
+            <element signature="e#9945#9964#0" expanded="false" />
+            <element signature="e#10010#10216#0" expanded="false" />
+            <element signature="e#10276#10300#0" expanded="false" />
+            <element signature="e#10339#10645#0" expanded="false" />
+            <element signature="e#10689#11256#0" expanded="false" />
+            <element signature="e#11293#11575#0" expanded="false" />
+            <element signature="e#11612#11825#0" expanded="false" />
+            <element signature="e#11866#12087#0" expanded="false" />
+            <element signature="e#12126#13004#0" expanded="false" />
+            <element signature="e#13047#15949#0" expanded="false" />
+            <element signature="e#15991#16221#0" expanded="false" />
+            <element signature="e#16258#16368#0" expanded="false" />
+            <element signature="e#16408#17044#0" expanded="false" />
+            <element signature="e#17119#20197#0" expanded="false" />
+            <element signature="e#20271#23409#0" expanded="false" />
+            <element signature="e#23485#26549#0" expanded="false" />
+            <element signature="e#26627#29634#0" expanded="false" />
+            <element signature="e#29674#29701#0" expanded="false" />
+            <element signature="e#29849#30144#0" expanded="false" />
+            <element signature="e#30219#31171#0" expanded="false" />
+            <element signature="e#31237#33892#0" expanded="false" />
+            <element signature="e#33957#36626#0" expanded="false" />
+            <element signature="e#36692#39340#0" expanded="false" />
+            <element signature="e#39408#42040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
